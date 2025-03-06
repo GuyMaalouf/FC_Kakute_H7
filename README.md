@@ -6,7 +6,7 @@ This guide provides a detailed, step-by-step process for flashing the PX4 firmwa
 
 Before starting, ensure you have:
 
-- **Holybro Kakute H7 Mini** flight controller
+- **Holybro Kakute H7 Mini** flight controller (https://holybro.com/products/kakute-h7-mini?variant=44722798788797)
 - A **USB cable** for data transfer (not just charging)
 - **QGroundControl** installed on your computer
 - **PX4 Firmware** source code
