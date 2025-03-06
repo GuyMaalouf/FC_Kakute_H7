@@ -1,4 +1,4 @@
-![10](https://github.com/user-attachments/assets/cd23853d-6776-4eda-9c69-3326bd9c9610)# PX4 Setup and Flashing Guide for Holybro Kakute H7 Mini Flight Controller
+# PX4 Setup and Flashing Guide for Holybro Kakute H7 Mini Flight Controller
 
 This guide provides a detailed, step-by-step process for flashing the PX4 firmware onto the **Holybro Kakute H7 Mini** flight controller, including the setup of STM32CubeProgrammer, flashing the bootloader, and uploading the PX4 firmware.
 
